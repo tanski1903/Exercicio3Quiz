@@ -8,8 +8,8 @@
 <body>
     <div class="container">
         <form action="exercicio3.php" method="POST">
-            <div id="til">
-                <h1> Exercício 3 Quiz</h1>
+            <div id="title">
+                <h1> Exercício 3 Quiz </h1>
             </div>
             <p id="p">
                 Insira um número: <input type="number" name="numero" />
